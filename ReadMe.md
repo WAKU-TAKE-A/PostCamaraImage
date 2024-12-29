@@ -27,10 +27,10 @@ This is a simple "React Native + Expo" app that allows the user to take a photo 
 2. Install dependencies:
 
     ```bash
-    cd     git clone https://github.com/WAKU-TAKE-A/PostCamaraImage.git
+    cd PostCamaraImage
     yarn install
     ```
-
+    
     If Yarn is not installed, please follow these steps to install it:<br>
     Install Yarn using npm: Open your terminal and run the following command:
 
